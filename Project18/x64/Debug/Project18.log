@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\Student\Documents\babu bhaiya\Project18\Functions.h(1,9): warning C4068: unknown pragma 'Once'
+C:\Users\Student\Documents\babu bhaiya\Project18\Operator.h(1,9): warning C4068: unknown pragma 'Once'
+C:\Users\Student\Documents\babu bhaiya\Project18\Main.cpp(29,41): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Project18.vcxproj -> C:\Users\Student\Documents\babu bhaiya\Project18\x64\Debug\Project18.exe
